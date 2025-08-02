@@ -7,7 +7,7 @@ export const personalInfo = {
   email: "rsampannavar@icloud.com",
   phone: "+91 8431455095",
   location: "Bengaluru, Karnataka, India",
-  bio: "Passionate iOS developer with 1+ years of experience building scalable iOS applications. I love creating elegant solutions to complex problems and staying up-to-date with the latest technologies.",
+  bio: "iOS Developer at Accenture",
   avatar: {Image},
   social: {
     github: "https://github.com/imrohitsampannavar45",
